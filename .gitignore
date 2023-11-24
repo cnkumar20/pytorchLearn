@@ -1,0 +1,9 @@
+bin
+conda-meta
+include
+lib
+man
+share
+ssl
+.idea
+
