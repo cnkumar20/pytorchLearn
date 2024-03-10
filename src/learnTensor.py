@@ -52,6 +52,12 @@ p(TENSOR)
 p(TENSOR.shape)
 
 
-torch.cuda_version
-p(torch.cuda)
+torch.version.cuda
+p(torch.version.cuda)
+
+
+
+
+
+rand_torch = torch.rand(3,4)
 
